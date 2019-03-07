@@ -3,6 +3,8 @@
 # HQ-NodeJS
 Remember when HQ was a thing? Yea.. thats when this was built and last tested.
 
+Shows possible answers to HQ Questions using NodeJS and iOS Mirroring.
+
 # Install
 * Download files.
 * Install Dependencies (look at top of file for **require**ments)
