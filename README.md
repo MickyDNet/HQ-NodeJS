@@ -5,6 +5,8 @@ Remember when HQ was a thing? Yea.. thats when this was built and last tested.
 
 Shows possible answers to HQ Questions using NodeJS and iOS Mirroring.
 
+**JUST TO BE CLEAR - NO MONEY WAS EVER GAINED FROM HQ USING THIS SOFTWARE!**
+
 # Install
 * Download files.
 * Install Dependencies (look at top of file for **require**ments)
